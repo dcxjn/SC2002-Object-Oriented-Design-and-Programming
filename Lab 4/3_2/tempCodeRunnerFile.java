@@ -1,0 +1,1 @@
+System.out.println("Total area: " + total);
