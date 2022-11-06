@@ -3,4 +3,5 @@
 #### NTU AY2022-2023 SEMESTER 1
 ---
 Contains:
+* Lab manual
 * Lab code
